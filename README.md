@@ -236,8 +236,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 [![GitHub](https://img.shields.io/badge/GitHub-sanirukumarapeli-181717?style=for-the-badge&logo=github)](https://github.com/sanirukumarapeli)
 
----
-
-<p align="center">
-  Made with ❤️ using the MERN Stack
-</p>
